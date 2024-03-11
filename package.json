@@ -1,0 +1,10 @@
+{
+
+  "name": "@davidlee9861/davidtea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@davidlee9861",
+  "repository": "https://github.com/colometsv6/davidtea.git",
+  "license": "ISC"
+}
